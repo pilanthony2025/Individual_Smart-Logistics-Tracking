@@ -1,0 +1,101 @@
+timestamp,packageId,location,status,additionalInfo
+2025-06-26 07:43:57.751751,PKG043,Distribution Center,On Hold,28.9°C
+2025-06-24 01:13:57.752709,PKG021,In Transit,In Transit,N/A
+2025-06-25 00:19:57.752824,PKG047,Delivery Hub,In Transit,28.9°C
+2025-06-28 17:50:57.752984,PKG047,Distribution Center,Delivered,66% humidity
+2025-06-23 16:58:57.753124,PKG016,Port,In Transit,66% humidity
+2025-06-27 00:23:57.753238,PKG042,Distribution Center,Pending,16.8 kWh
+2025-06-29 12:51:57.753359,PKG048,Port,Pending,66% humidity
+2025-06-25 05:18:57.753461,PKG036,Distribution Center,Delivered,28.9°C
+2025-06-27 12:09:57.753562,PKG033,Distribution Center,On Hold,28.9°C
+2025-06-28 02:46:57.753661,PKG022,In Transit,Delivered,28.9°C
+2025-06-29 08:29:57.753760,PKG040,Warehouse,Pending,16.8 kWh
+2025-06-22 15:27:57.753864,PKG047,Distribution Center,In Transit,N/A
+2025-06-29 06:35:57.753967,PKG010,Delivery Hub,On Hold,66% humidity
+2025-06-24 22:55:57.754068,PKG024,In Transit,Pending,66% humidity
+2025-06-26 09:31:57.754173,PKG002,Distribution Center,In Transit,28.9°C
+2025-06-29 07:01:57.754278,PKG001,Delivery Hub,Pending,N/A
+2025-06-26 15:51:57.754378,PKG029,In Transit,On Hold,66% humidity
+2025-06-23 00:44:57.754478,PKG004,Port,Delivered,66% humidity
+2025-06-26 05:06:57.754582,PKG013,In Transit,On Hold,16.8 kWh
+2025-06-24 01:31:57.754681,PKG001,Distribution Center,In Transit,16.8 kWh
+2025-06-28 19:52:57.754782,PKG008,Delivery Hub,On Hold,N/A
+2025-06-29 11:09:57.754895,PKG009,Distribution Center,Pending,16.8 kWh
+2025-06-22 20:13:57.755000,PKG027,Distribution Center,Delivered,16.8 kWh
+2025-06-24 14:06:57.755104,PKG019,Distribution Center,Delivered,N/A
+2025-06-28 10:32:57.755212,PKG044,Distribution Center,On Hold,N/A
+2025-06-27 01:01:57.755314,PKG047,Distribution Center,In Transit,66% humidity
+2025-06-25 13:26:57.755413,PKG039,Delivery Hub,On Hold,N/A
+2025-06-22 23:59:57.755514,PKG037,Port,In Transit,16.8 kWh
+2025-06-23 15:32:57.755618,PKG049,Warehouse,In Transit,16.8 kWh
+2025-06-23 23:12:57.755722,PKG048,Port,Pending,66% humidity
+2025-06-24 07:49:57.755824,PKG034,Distribution Center,Pending,66% humidity
+2025-06-22 19:58:57.755930,PKG022,Warehouse,Delivered,66% humidity
+2025-06-24 02:55:57.756072,PKG010,Distribution Center,On Hold,66% humidity
+2025-06-24 04:43:57.756184,PKG024,Warehouse,In Transit,16.8 kWh
+2025-06-22 22:44:57.756307,PKG026,In Transit,In Transit,N/A
+2025-06-29 11:39:57.756414,PKG021,Port,On Hold,N/A
+2025-06-23 08:51:57.756516,PKG038,Warehouse,On Hold,N/A
+2025-06-28 14:12:57.756620,PKG016,Delivery Hub,Delivered,N/A
+2025-06-29 08:24:57.756730,PKG038,Delivery Hub,Delivered,N/A
+2025-06-28 20:29:57.756832,PKG006,Delivery Hub,In Transit,16.8 kWh
+2025-06-26 18:55:57.756937,PKG030,Distribution Center,Pending,66% humidity
+2025-06-29 08:35:57.757038,PKG013,Delivery Hub,Pending,66% humidity
+2025-06-27 16:30:57.757142,PKG021,Distribution Center,On Hold,28.9°C
+2025-06-28 06:35:57.757249,PKG017,Port,Pending,66% humidity
+2025-06-27 20:02:57.757348,PKG030,Port,On Hold,16.8 kWh
+2025-06-26 07:58:57.757449,PKG020,In Transit,On Hold,28.9°C
+2025-06-23 16:53:57.757759,PKG004,In Transit,Delivered,16.8 kWh
+2025-06-25 11:16:57.757919,PKG016,Port,Delivered,16.8 kWh
+2025-06-23 19:22:57.757981,PKG018,Distribution Center,On Hold,28.9°C
+2025-06-27 21:00:57.758099,PKG034,Distribution Center,Pending,N/A
+2025-06-26 08:28:57.758221,PKG023,In Transit,Delivered,16.8 kWh
+2025-06-26 01:43:57.758326,PKG016,Warehouse,Delivered,16.8 kWh
+2025-06-23 06:45:57.758444,PKG028,Warehouse,Pending,N/A
+2025-06-29 05:59:57.758567,PKG008,Distribution Center,In Transit,66% humidity
+2025-06-26 15:21:57.758690,PKG009,Distribution Center,In Transit,16.8 kWh
+2025-06-24 16:34:57.758826,PKG011,Distribution Center,Pending,N/A
+2025-06-23 06:31:57.758899,PKG040,Distribution Center,Pending,N/A
+2025-06-26 08:29:57.758968,PKG017,Delivery Hub,Delivered,16.8 kWh
+2025-06-22 17:50:57.759037,PKG012,In Transit,Delivered,N/A
+2025-06-28 02:35:57.759129,PKG031,Distribution Center,Pending,16.8 kWh
+2025-06-22 21:32:57.759196,PKG014,Distribution Center,Pending,28.9°C
+2025-06-29 09:34:57.759254,PKG007,Warehouse,In Transit,16.8 kWh
+2025-06-26 08:18:57.759310,PKG033,Distribution Center,In Transit,28.9°C
+2025-06-25 21:24:57.759367,PKG014,Delivery Hub,Pending,28.9°C
+2025-06-29 08:55:57.759442,PKG011,In Transit,In Transit,N/A
+2025-06-28 19:56:57.759588,PKG007,Port,In Transit,16.8 kWh
+2025-06-25 15:40:57.759711,PKG014,Distribution Center,Delivered,16.8 kWh
+2025-06-23 20:52:57.759832,PKG023,In Transit,Pending,N/A
+2025-06-24 00:53:57.760012,PKG037,Distribution Center,Pending,28.9°C
+2025-06-27 02:42:57.760164,PKG048,Warehouse,Delivered,66% humidity
+2025-06-22 14:10:57.760340,PKG014,Distribution Center,Delivered,16.8 kWh
+2025-06-26 07:30:57.760498,PKG027,Port,Pending,16.8 kWh
+2025-06-29 06:04:57.760681,PKG039,Warehouse,Delivered,16.8 kWh
+2025-06-26 05:19:57.760851,PKG005,Distribution Center,On Hold,66% humidity
+2025-06-27 15:39:57.760985,PKG042,Delivery Hub,In Transit,16.8 kWh
+2025-06-24 07:33:57.761153,PKG045,In Transit,On Hold,16.8 kWh
+2025-06-25 14:05:57.761364,PKG030,Distribution Center,Delivered,16.8 kWh
+2025-06-25 19:08:57.761469,PKG006,In Transit,In Transit,28.9°C
+2025-06-29 02:34:57.761559,PKG030,Port,Pending,66% humidity
+2025-06-24 15:46:57.761618,PKG010,Warehouse,Delivered,N/A
+2025-06-24 18:16:57.761676,PKG042,Port,Pending,N/A
+2025-06-27 01:04:57.761732,PKG007,Warehouse,In Transit,16.8 kWh
+2025-06-26 00:00:57.761789,PKG037,Distribution Center,In Transit,16.8 kWh
+2025-06-22 18:08:57.761847,PKG020,In Transit,In Transit,28.9°C
+2025-06-28 01:58:57.761903,PKG023,Warehouse,Pending,28.9°C
+2025-06-23 09:36:57.761960,PKG031,Warehouse,Delivered,N/A
+2025-06-25 01:26:57.762015,PKG043,Distribution Center,Delivered,N/A
+2025-06-22 17:49:57.762071,PKG015,Port,In Transit,66% humidity
+2025-06-29 07:18:57.762127,PKG028,Warehouse,Delivered,16.8 kWh
+2025-06-29 01:13:57.762196,PKG043,Distribution Center,In Transit,66% humidity
+2025-06-27 04:15:57.762256,PKG008,Warehouse,Delivered,16.8 kWh
+2025-06-24 13:16:57.762312,PKG019,Warehouse,Delivered,N/A
+2025-06-23 17:48:57.762368,PKG013,Distribution Center,On Hold,N/A
+2025-06-25 12:34:57.762427,PKG037,In Transit,Pending,28.9°C
+2025-06-25 21:53:57.762485,PKG024,Distribution Center,In Transit,16.8 kWh
+2025-06-23 19:46:57.762541,PKG030,Delivery Hub,In Transit,16.8 kWh
+2025-06-28 23:32:57.762598,PKG018,Warehouse,Delivered,N/A
+2025-06-27 01:52:57.762658,PKG027,Distribution Center,Delivered,N/A
+2025-06-23 04:01:57.762714,PKG035,Delivery Hub,On Hold,16.8 kWh
+2025-06-28 00:21:57.762770,PKG017,Delivery Hub,Delivered,28.9°C
